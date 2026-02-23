@@ -15,7 +15,7 @@ public class Aula04Operadores {
         System.out.println("soma dos numero: "+soma_total);
         // Resto divisao %
         // < > <= >== == !=
-        // AND NO JAVA É && OU É INSCRITO ||
+        // AND NO JAVA É (&&)  OR É INSCRITO (||)
 
         int idade = 29;
         float salario = 3500F;
@@ -26,6 +26,39 @@ public class Aula04Operadores {
 
         System.out.println(" Idade dentro da lei "+isDentro_da_lei);
         System.out.println(" Idade menor que trinta "+isDentroDaLeiMenorQueTrinta);
+
+        double valorTotalContaCorrente = 200;
+        double valorTotalPoupanca = 10000;
+        float valorPlaystation = 5000F;
+
+
+        boolean isPlaystationCincoCompravel = valorTotalContaCorrente > 5000 || valorTotalPoupanca > valorPlaystation;
+        System.out.println("O playstation e compravel: " +isPlaystationCincoCompravel);
+
+
+        // Operadores Logicos += , -= , *= ,  /= , %=
+
+        double bonus = 1000;
+        bonus += 1000;
+        bonus -= 1000;
+        bonus *= 2;
+        bonus  /= 2;
+        bonus %= 2;
+        System.out.println("Bonus atual: " +bonus);
+
+
+        //
+        int contador = 0;
+        contador+= 1;  // contador = contador + 1
+        contador++;
+        contador--;
+        ++contador;  // ele primeiro prioriza incrementar 1 a variavel
+
+        int contador2 = 0;
+
+        System.out.println(contador);
+
+
 
     }
 }
