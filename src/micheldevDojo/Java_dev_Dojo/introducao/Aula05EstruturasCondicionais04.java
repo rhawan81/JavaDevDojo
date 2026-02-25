@@ -7,15 +7,15 @@ public class Aula05EstruturasCondicionais04 {
         double SegundaFaixa = 37.35 / 100;
         double TerceiraFaixa = 49.50 / 100;
 
-        double valorImposto ;
+        double valorImposto;
 
-        if(salarioAnual <= 34712){
-            valorImposto = salarioAnual* PrimeiraFaixa  ;
+        if (salarioAnual <= 34712) {
+            valorImposto = salarioAnual * PrimeiraFaixa;
         } else if (salarioAnual >= 34713 && salarioAnual <= 68507) {
             valorImposto = salarioAnual * SegundaFaixa;
-        }        else{
+        } else {
 
-            valorImposto = salarioAnual *  TerceiraFaixa;
+            valorImposto = salarioAnual * TerceiraFaixa;
         }
         System.out.println(valorImposto);
     }
