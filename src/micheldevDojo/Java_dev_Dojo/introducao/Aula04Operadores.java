@@ -52,7 +52,7 @@ public class Aula04Operadores {
         contador+= 1;  // contador = contador + 1
         contador++;
         contador--;
-        ++contador;  // ele primeiro prioriza incrementar 1 a variavel
+        ++contador;  // ele primeiro prioriza incrementar 1 a variavel 3
 
         int contador2 = 0;
 
