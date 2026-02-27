@@ -9,7 +9,7 @@ public class Aula06EstruturasDeRepetiçao03 {
                 break;
 
             }
-            System.out.println(i );
+            System.out.println("O valor de i "+ i);
 
         }
 
