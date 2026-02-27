@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.introducao;
 
-public class Aula06EstruturasDeRepetiçao02MaisExercicio {
+public class Aula06EstruturasDeRepeticao02MaisExercicio {
     public static void main(String[] args) {
         // Imprima todos os numeros pares de 0 até 1000000
 

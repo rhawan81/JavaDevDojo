@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.introducao;
 
-public class Aula06EstruturasDeRepetiçao03 {
+public class Aula06EstruturasDeRepeticao03 {
     // Imprima os primeiros 25 numeros de um dado valor, por exemplo 50
     public static void main(String[] args) {
         int valorMax = 50;

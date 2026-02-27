@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.introducao;
 
-public class Aula06EstruturasDeRepetiçao01 {
+public class Aula06EstruturasDeRepeticao01 {
     public static void main(String[] args) {
         // Estrutura de Repetição do Java While,Do While, for
         int cont = 220;
