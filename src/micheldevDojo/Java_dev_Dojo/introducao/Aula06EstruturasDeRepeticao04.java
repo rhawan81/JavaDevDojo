@@ -10,7 +10,7 @@ public class Aula06EstruturasDeRepeticao04 {
             double valorParcela = valorTotal / parcela;
 
             if(valorParcela < 1000){ // caso o valor da parcela seja maior que 1000 ira parar o comando
-               break;
+               continue;
             }
             System.out.println("Parcela "+ parcela + " R$ "+ valorParcela);
 
