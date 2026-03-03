@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.introducao;
 
-public class exercicios {
+public class DesafioTesteEstruturasCondicionais {
     public static void main(String[] args) {
 
         // Define quantas linhas a pirâmide terá
