@@ -6,6 +6,8 @@ public class ExercicioMatriz {
 
 
         int [][] matriz = new int[2][2];
+        int soma = 0;
+
         matriz[0][0] = 1;
         matriz[0][1] = 2;
         matriz[1][0] = 3;
@@ -13,13 +15,14 @@ public class ExercicioMatriz {
 
         for (int i = 0; i < matriz.length ; i++) {
             for (int j = 0; j < matriz[i].length ; j++) {
-
+                 soma += matriz[i][j];
                 System.out.print(matriz[i][j]);
 
 
 
             }
             System.out.println();
+            System.out.println(soma);
 
         }
 
