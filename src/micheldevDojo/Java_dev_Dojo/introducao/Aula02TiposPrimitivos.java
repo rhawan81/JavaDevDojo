@@ -18,7 +18,7 @@ public class Aula02TiposPrimitivos {
         char caractere = 'm'; // apenas  Guarda UM único caractere.
         String nome = "Michel"; // Como string é uma classe nao podemos escrever string minusculo pois ira dar erro.
         System.out.println( "a idade é " + idade+ "  anos" );
-        System.out.println("Oi meu nome é " + nome );
+        System.out.println("Oi meu nome : " + nome );
 
 
     }
