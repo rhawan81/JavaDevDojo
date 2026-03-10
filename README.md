@@ -43,7 +43,7 @@ Este repositório foi criado para:
 
 ## 👨‍💻 Autor
 
-**José Rhawan Michel**
+**José Rhawan Michel dos Santos**
 
 Estudante de **Ciência da Computação** e entusiasta do desenvolvimento **Back-End**, atualmente focado no ecossistema **Java**.
 
