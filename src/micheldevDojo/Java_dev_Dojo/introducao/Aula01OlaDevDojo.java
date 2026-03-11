@@ -8,6 +8,6 @@ public class Aula01OlaDevDojo {
      */
     public static void main(String[] args){
 
-        System.out.println("Meu nome é michel e estou aprendendo Java");
+        System.out.println("Meu nome é michel e estou aprendendo Java Com DevDojo !");
     }
 }
