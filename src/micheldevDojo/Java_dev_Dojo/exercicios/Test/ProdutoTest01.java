@@ -7,8 +7,13 @@ public class ProdutoTest01 {
         Produto produto = new Produto();
 
 
-        produto.adicionarEstoque(1," PS5");
+        produto.nome = "PS5";
+        produto.preco = 5000;
+        produto.adicionarEstoque(5);
         produto.exibirEstoque();
+        produto.removerEstoque(2);
+        produto.exibirEstoque();
+
 
     }
 }
