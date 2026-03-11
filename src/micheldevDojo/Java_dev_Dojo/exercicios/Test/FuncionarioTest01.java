@@ -6,7 +6,7 @@ public class FuncionarioTest01 {
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario();
         funcionario.nome = "Michel";
-        funcionario.age = 21;
+        funcionario.idade = 21;
         funcionario.salario = 799.00;
 
 
