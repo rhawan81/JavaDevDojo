@@ -1,12 +1,12 @@
 package micheldevDojo.Java_dev_Dojo.exercicios.Test;
 
-import micheldevDojo.Java_dev_Dojo.exercicios.Dominio.Banco;
+import micheldevDojo.Java_dev_Dojo.exercicios.Dominio.ContaBancaria;
 
 public class BancoTest01 {
 
     public static void main(String[] args) {
-        Banco conta = new Banco();
-        conta.nome = "Santos";
+        ContaBancaria conta = new ContaBancaria();
+        conta.titular = "Santos";
         conta.saldo = 0;
         conta.depositar(1000);
         conta.mostrarSaldo();
