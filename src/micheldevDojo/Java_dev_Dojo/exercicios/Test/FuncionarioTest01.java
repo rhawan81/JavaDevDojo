@@ -11,7 +11,7 @@ public class FuncionarioTest01 {
 
 
 
-        funcionario.ImprimirDados();
+        funcionario.imprimirDados();
 
     }
 }
