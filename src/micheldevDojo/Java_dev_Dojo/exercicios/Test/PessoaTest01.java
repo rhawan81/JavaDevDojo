@@ -8,6 +8,7 @@ public class PessoaTest01 {
         Pessoas pessoa2 = new Pessoas();
         Pessoas pessoa3 = new Pessoas();
 
+
         pessoa.nome = "Maria";
         pessoa.idade = 29;
         pessoa.altura = 2.19;
@@ -30,5 +31,7 @@ public class PessoaTest01 {
         pessoa2.ImprimirPessoas();
         System.out.println("---------------");
         pessoa3.ImprimirPessoas();
+
+
     }
 }
