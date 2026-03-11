@@ -7,8 +7,8 @@ public class Carros {
 
 
     public void imprimir(){
-        System.out.println("Nome:" + nome);
-        System.out.println("Modelo:" + modelo);
+        System.out.println("Nome: " + nome);
+        System.out.println("Modelo: "  + modelo);
         System.out.println("Ano: " + ano);
     }
 
