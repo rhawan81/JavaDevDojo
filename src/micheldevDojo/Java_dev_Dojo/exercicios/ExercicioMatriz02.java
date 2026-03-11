@@ -1,4 +1,4 @@
-package micheldevDojo.Java_dev_Dojo.introducao.Exercicios;
+package micheldevDojo.Java_dev_Dojo.exercicios;
 
 public class ExercicioMatriz02 {
     public static void main(String[] args) {

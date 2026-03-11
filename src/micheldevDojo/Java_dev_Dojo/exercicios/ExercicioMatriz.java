@@ -1,4 +1,4 @@
-package micheldevDojo.Java_dev_Dojo.introducao.Exercicios;
+package micheldevDojo.Java_dev_Dojo.exercicios;
 
 public class ExercicioMatriz {
     // Exercicio Atribuir e tambem Criar matriz 2x2

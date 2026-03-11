@@ -1,4 +1,4 @@
-package micheldevDojo.Java_dev_Dojo.introducao;
+package micheldevDojo.Java_dev_Dojo.exercicios;
 
 public class DesafioTesteEstruturasCondicionais {
     public static void main(String[] args) {

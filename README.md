@@ -34,7 +34,7 @@ Durante os estudos neste repositório, estou praticando:
 
 Este repositório foi criado para:
 
-- Consolidar conhecimentos em **Java**
+- Consolidar conhecimentos em **Java**k
 - Praticar **lógica de programação**
 - Evoluir no desenvolvimento **Back-End**
 - Documentar minha jornada de aprendizado em programação
