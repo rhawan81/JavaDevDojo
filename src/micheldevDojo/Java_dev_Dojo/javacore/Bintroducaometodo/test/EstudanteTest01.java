@@ -19,6 +19,7 @@ public class EstudanteTest01 {
 // Criamos uma classe onde imprime o objeto de referencia que é estudante e eliminamos redundancia deixando o codigo mais coeso.
         impressora.ImprimeEstudante(estudante1);
         impressora.ImprimeEstudante(estudante2);
+        impressora.ImprimeEstudante(estudante1);
 
     }
 }
