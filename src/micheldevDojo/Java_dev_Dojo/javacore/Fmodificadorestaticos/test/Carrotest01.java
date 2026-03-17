@@ -8,8 +8,10 @@ public class Carrotest01 {
         Carro carro2 = new Carro("Mercedez", 275);
         Carro carro3 = new Carro("Audi", 290);
         carro1.setVelocidadeLimite(180);
-        // outro jeito de passar a velocidade para a classe carro.
+        // outro jeito de passar a velocidade para a classe carro., podendo ou nao ter objeto.
         Carro.velocidadeLimite = 180;
+        System.out.println(Carro.velocidadeLimite);
+
         carro1.imprime();
         carro2.imprime();
         carro3.imprime();
