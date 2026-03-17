@@ -6,11 +6,29 @@ public class Anime {
         private String tipo;
         private int episodios;
         private String genero;
+        private String estudio;
 
 
-        public Anime(String nome){
-            System.out.println(" DENTRO DO CONSTRUTOR !!!!!!!");
+        public Anime(String nome, String tipo , int episodios,String genero){
+            ///  metodo this so pode ser usado dentro do construtor ou seja precisa ser a primeira linha como estar abaixo
+            this();
             this.nome = nome;
+            this.tipo = tipo;
+            this.episodios = episodios;
+            this.genero = genero;
+
+        }
+        public Anime(String nome, String tipo , int episodios,String genero, String estudio){
+            // aqui acontece a sobrecarga de construtor onde usamos tudo do construtor acima apenas passando um parametro a mais que é o estudio que foi adicionado propositalmente
+        this(nome,tipo, episodios, genero);
+        this.estudio = estudio;
+
+
+
+    }
+
+        public Anime(){
+            System.out.println(" DENTRO DO CONSTRUTOR sem argumentos !!!");
         }
 
         public void init(String nome, String tipo, int episodios) {
@@ -37,6 +55,7 @@ public class Anime {
             System.out.println("Tipo: " + this.tipo);
             System.out.println("Episodios: " + this.episodios);
             System.out.println("Genero: " + this.genero);
+            System.out.println("Estudio: " + this.estudio);
         }
 
 
