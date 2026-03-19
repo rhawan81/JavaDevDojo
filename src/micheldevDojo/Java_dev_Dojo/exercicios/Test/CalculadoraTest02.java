@@ -14,6 +14,6 @@ public class CalculadoraTest02 {
         System.out.println("O numero menor numero é: " + numeroMenor);
         System.out.println("O numero maior numero é: " + numeroMaior);
         System.out.println("A media é: " + media);
-        System.out.println("A quantidade de numeros pares é: " + contarNums);
+        System.out.println("A quantidade de numeros pares é de :  " + contarNums);
     }
 }
