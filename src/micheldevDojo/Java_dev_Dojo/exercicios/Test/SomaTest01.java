@@ -7,12 +7,11 @@ public class SomaTest01 {
         Soma soma = new Soma();
         Soma maior2 = new Soma();
         int result = maior2.maior(2,9,5,6,3,2,100,42,42,651,2123,412,4);
-        double mediaUser = soma.media(9.4,10.9,20.9);
         int resposta = soma.somar(2,5);
         int qntdPares = soma.contarPares(2,3,4,5,6,7,8,9,10);
         System.out.println(result);
-        System.out.println(mediaUser);
         System.out.println("Quantidade de numeros pares:" + qntdPares);
+        soma.relatorio(2,3,4,5,6,7,8,9,10);
 
     }
 }

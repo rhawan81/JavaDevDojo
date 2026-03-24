@@ -18,7 +18,7 @@ public class Soma {
         return maior;
     }
 
-    public static double media(double ... numeros) {
+    public static double media(int ... numeros) {
         double soma = 0;
         for(double n : numeros){
            soma += n;
@@ -35,5 +35,11 @@ public class Soma {
             }
         }
         return pares;
+    }
+    public static void relatorio(int ... numeros){
+        System.out.println("Relatório de cálculos:");
+        System.out.println("Maior número: " + maior(numeros));
+        System.out.println("Média: " + media(numeros));
+        System.out.println("Quantidade de números pares: " + contarPares(numeros));
     }
 }
