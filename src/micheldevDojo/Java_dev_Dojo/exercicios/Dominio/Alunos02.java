@@ -10,6 +10,17 @@ public class Alunos02 {
         System.out.println("Idade: "+idade);
         System.out.println("notas: "+notas);
     }
+    public double  retornarMedia(double ... nota){
+        double soma = 0;
+        double media = 0;
+        for(double somar : nota){
+            soma += somar;
+
+        }
+        media = soma / nota.length;
+        return media;
+
+    }
 
 
 }
