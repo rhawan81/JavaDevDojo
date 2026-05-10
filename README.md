@@ -205,7 +205,7 @@ Este repositório foi criado para:
 
 ## 👨‍💻 Autor
 
-**José Rhawan Michel dos Santos**
+**José Rhawan Michel dos Santos Beltrão **
 
 Estudante de **Ciência da Computação** e entusiasta do desenvolvimento **Back-End**, atualmente focado no ecossistema **Java**.
 
@@ -233,7 +233,7 @@ Este repositório foi criado para:
 
 ## 👨‍💻 Autor
 
-**José Rhawan Michel dos Santos**
+**José Rhawan Michel dos Santos Beltrão**
 
 Estudante de **Ciência da Computação** e entusiasta do desenvolvimento **Back-End**, atualmente focado no ecossistema **Java**.
 
