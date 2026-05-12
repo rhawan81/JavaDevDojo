@@ -6,6 +6,10 @@ public class Cachorro extends Animal {
     public String getRaca() {
         return raca;
     }
+    public void apresentar(){
+        super.apresentar();
+        System.out.println(this.raca);
+    }
 
     public void setRaca(String raca) {
         this.raca = raca;
