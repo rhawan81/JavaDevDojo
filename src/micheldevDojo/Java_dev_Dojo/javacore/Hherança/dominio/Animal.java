@@ -25,4 +25,8 @@ public class Animal {
         System.out.println("Tenho a idade de: " + this.idade);
 
     }
+
+    public void emitirSom(){
+        System.out.println("Emitindo som...");
+    }
 }

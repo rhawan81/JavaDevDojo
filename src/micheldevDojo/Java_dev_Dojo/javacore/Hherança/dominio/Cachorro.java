@@ -10,6 +10,10 @@ public class Cachorro extends Animal {
         super.apresentar();
         System.out.println(this.raca);
     }
+    @Override
+    public void emitirSom(){
+        System.out.println("Au au au...");
+    }
 
     public void setRaca(String raca) {
         this.raca = raca;
