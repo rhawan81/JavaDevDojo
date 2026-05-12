@@ -227,7 +227,7 @@ Este repositório foi criado para:
 - Consolidar conhecimentos em **Java**
 - Praticar **lógica de programação**
 - Evoluir no desenvolvimento **Back-End**
-- Documentar minha jornada de aprendizado em programação com Java
+  - Documentar minha jornada de aprendizado em programação com Java
 
 ---
 
