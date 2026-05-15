@@ -17,7 +17,7 @@ public class Biblioteca {
     }
 
 
-    public void BuscarPorAutor(String nome){
+    public void buscarPorAutor(String nome){
         System.out.println("Buscando livros do autor: " + nome);
         for (String nomeLivro : nomes) {
             if(nomeLivro.contains(nome)){
