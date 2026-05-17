@@ -71,6 +71,7 @@ Durante os estudos neste repositório, estou praticando:
 - Herança
 - Polimorfismo
 - Associação de Classes 
+- Abstração 
 
 ---
 
