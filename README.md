@@ -66,6 +66,7 @@ Durante os estudos neste repositório, estou praticando:
 - Métodos
 - Programação Orientada a Objetos (POO)
 - Organização de código em pacotes
+- Herança
 
 ---
 
