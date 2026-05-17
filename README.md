@@ -68,6 +68,7 @@ Durante os estudos neste repositório, estou praticando:
 - Organização de código em pacotes
 - Herança
 - Polimorfismo
+- Associação de Classes 
 
 ---
 
