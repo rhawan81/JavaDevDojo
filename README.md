@@ -115,6 +115,7 @@ Este repositório foi criado para:
 - Evoluir no desenvolvimento **Back-End**
 - Documentar minha jornada de aprendizado em programação
 - Manter um histórico de evolução do projeto
+- Ter boas práticas no codigo e na organizaçao do codigo 
 
 ---
 
