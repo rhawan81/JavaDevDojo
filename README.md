@@ -92,6 +92,7 @@ Exemplos de POO e organização do código em pacotes, separados por tema:
 - blocos de inicialização
 - modificadores estáticos
 - associação
+- Herança
 
 ---
 
