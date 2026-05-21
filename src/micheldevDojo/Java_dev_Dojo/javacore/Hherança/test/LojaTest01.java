@@ -6,25 +6,13 @@ import micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio.Produto;
 
 public class LojaTest01 {
     public static void main(String[]args){
-        Produto produto = new Produto();
-        Celular poco = new Celular();
-        Notebook asus = new Notebook();
+        Produto produto = new Produto("Iphone");
+        Produto produto2 = new Produto("Macbook",19.90);
+        Produto produto3 = new Produto("Mouse",19.90,3);
 
-        produto.setNome("Playstation 5");
-        produto.setPreco(5000);
-        System.out.println("-----------------------");
-        poco.setMarca("Xiaomi");
-        poco.setNome("Poco X7 Pro");
-        poco.setPreco(2500);
-        System.out.println("-----------------------");
-        asus.setNome("Notebook Asus");
-        asus.setPreco(4000);
-        asus.setProcessador("Ryzen 5");
-
-
-        produto.exibir();
-        poco.exibir();
-        asus.exibir();
+            produto.exibir();
+            produto2.exibir();
+            produto3.exibir();
 
 
 

@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio;
 
-public class Notebook extends Produto{
+public class Notebook{
     private String processador;
 
     public String getProcessador() {
@@ -11,10 +11,7 @@ public class Notebook extends Produto{
         this.processador = processador;
     }
 
-    public void exibir(){
-        super.exibir();
-        System.out.println("Processador: " + this.processador);
-    }
+
 
 
 

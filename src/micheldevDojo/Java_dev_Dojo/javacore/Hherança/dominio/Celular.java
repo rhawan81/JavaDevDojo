@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio;
 
-public class Celular extends Produto {
+public class Celular  {
     private String marca;
 
     public String getMarca() {
@@ -11,9 +11,6 @@ public class Celular extends Produto {
         this.marca = marca;
     }
 
-    public void  exibir(){
-        super.exibir();
-        System.out.println("Marca: " + this.marca);
-    }
+
 
 }
