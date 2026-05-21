@@ -127,10 +127,4 @@ Estudante de **Ciência da Computação** e entusiasta do desenvolvimento **Back
 
 ---
 
-
-
-Estudante de **Ciência da Computação** e entusiasta do desenvolvimento **Back-End**, atualmente focado no ecossistema **Java**.
-
----
-
 ⭐ Este repositório faz parte da minha jornada de aprendizado em desenvolvimento de software.
