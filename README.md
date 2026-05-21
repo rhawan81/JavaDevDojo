@@ -18,6 +18,7 @@ Durante os estudos neste repositório, estou praticando:
 - Métodos
 - Programação Orientada a Objetos (POO)
 - Organização de código em pacotes
+- Abstração 
 
 ---
 
@@ -49,6 +50,9 @@ O projeto está em andamento e organizado por áreas de estudo.
 - Blocos de inicialização
 - Modificadores estáticos
 - Associação entre classes
+- Herança
+- Polimorfismo
+- Abstração
 
 ---
 
@@ -64,6 +68,10 @@ Durante os estudos neste repositório, estou praticando:
 - Métodos
 - Programação Orientada a Objetos (POO)
 - Organização de código em pacotes
+- Herança
+- Polimorfismo
+- Associação de Classes 
+- Abstração 
 
 ---
 
@@ -84,6 +92,8 @@ Exemplos de POO e organização do código em pacotes, separados por tema:
 - blocos de inicialização
 - modificadores estáticos
 - associação
+- Herança
+- Polimorfismo
 
 ---
 
@@ -105,6 +115,7 @@ Este repositório foi criado para:
 - Evoluir no desenvolvimento **Back-End**
 - Documentar minha jornada de aprendizado em programação
 - Manter um histórico de evolução do projeto
+- Ter boas práticas no codigo e na organizaçao do codigo 
 
 ---
 
