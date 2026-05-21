@@ -1,11 +1,17 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio;
 
 public class Pessoa {
-    private String nome;
-    private String cpf;
-    private Endereco endereco;
+    protected String nome;
+    protected String cpf;
+    protected Endereco endereco;
 
-
+    public Pessoa(String nome){
+        this.nome = nome;
+    }
+    public Pessoa(String nome, String cpf){
+        this(nome);
+        this.cpf = cpf;
+    }
     public void imprime(){
 
         if(this.endereco != null){

@@ -4,6 +4,8 @@ public class Endereco {
     private String rua;
     private String cep;
 
+
+
     public String getRua() {
         return rua;
     }

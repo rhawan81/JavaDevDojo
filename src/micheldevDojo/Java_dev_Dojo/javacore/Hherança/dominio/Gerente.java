@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio;
 
-public class Gerente extends Funcionarios2{
+public class Gerente {
 
     private String departamento;
 
@@ -13,11 +13,6 @@ public class Gerente extends Funcionarios2{
     }
 
 
-    @Override
-    public void imprime(){
-        super.imprime();
-        System.out.println("Departamento: " + this.departamento);
-    }
 
 
 }

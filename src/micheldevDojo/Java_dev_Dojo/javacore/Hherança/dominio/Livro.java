@@ -13,7 +13,7 @@ public class Livro {
         System.out.println(this.titulo);
         System.out.println(this.anoPublicacao);
         System.out.println(this.preco);
-        System.out.println(this.autor.getNome());
+
     }
 
     public void setTitulo(String titulo) {

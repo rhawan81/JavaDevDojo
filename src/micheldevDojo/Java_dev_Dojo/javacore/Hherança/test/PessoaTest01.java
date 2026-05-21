@@ -5,7 +5,7 @@ import micheldevDojo.Java_dev_Dojo.javacore.Hherança.dominio.Funcionario;
 
 public class PessoaTest01 {
     public static void main(String[] args) {
-        Funcionario funcionario = new Funcionario();
+        Funcionario funcionario = new Funcionario("Jose");
         Endereco endereco = new Endereco();
         endereco.setRua("Rua 1");
         endereco.setCep("12345678");
