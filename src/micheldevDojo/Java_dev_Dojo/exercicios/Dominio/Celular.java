@@ -16,6 +16,15 @@ public class Celular {
     }
     public Celular(String marca, String modelo,double preco){
 
+        this(marca,modelo);
+        this.preco = preco;
+
+    }
+
+    public void imprime(){
+        System.out.println("Marca: " + this.marca);
+        System.out.println("Modelo: " + this.modelo);
+        System.out.println("Preço: " + this.preco);
     }
 
 
