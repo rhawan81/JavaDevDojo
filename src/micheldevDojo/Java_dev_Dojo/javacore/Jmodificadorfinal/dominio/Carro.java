@@ -1,6 +1,6 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Jmodificadorfinal.dominio;
 
-public class Carro {
+public  class  Carro {
 
     private String nome;
     // CONSTANTE  FINAL NAO PODE TER VALOR ALTERADO E GERALMENTE VEM ACOMPANHADO DO STATIC
@@ -10,6 +10,12 @@ public class Carro {
     // Referencia para este objeto nunca poderá ser alterada
     public String getNome() {
         return nome;
+    }
+    // nao podemos sobrescrever um metodo
+    // final , pois nenhuma subclasse podera alterar o comportamento dele
+
+    public  final void   imprime(){
+        System.out.println(this.nome);
     }
 
     public void setNome(String nome) {
