@@ -2,7 +2,7 @@
 
 Este repositório contém meus **estudos e exercícios em Java  ** realizados durante o curso *Maratona Java - DevDojo **.
 
-O objetivo é praticar os fundamentos da linguagem Java, desenvolver lógica de programação e aprender conceitos importantes de ** Programação Orientada a Objetos (POO) **.
+O objetivo é praticar os fundamentos da linguagem Java, desenvolver lógica de programação e aprender conceitos importantes de **Programação Orientada a Objetos (POO) **.
 
 ---
 
