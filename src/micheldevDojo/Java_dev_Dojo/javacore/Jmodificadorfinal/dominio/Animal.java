@@ -1,7 +1,7 @@
 package micheldevDojo.Java_dev_Dojo.javacore.Jmodificadorfinal.dominio;
 
 public class Animal {
-    private String nome:
+    private String nome;
 
 
     public void emitirSom(){
