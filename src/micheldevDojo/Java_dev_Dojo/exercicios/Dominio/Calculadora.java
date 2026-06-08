@@ -8,7 +8,7 @@ public class Calculadora {
 // REFATORAÇAÕ USANDO VAR ARGS e fazendo exercicios
 // ache o menor numero usando varargs
     public int menorNum(int ... numero){
-        int menorNum = numero[0];
+        int menorNum = numero[0]
         for(int num: numero){
             if(num < menorNum){
                 menorNum = num;
