@@ -13,6 +13,10 @@ public class Animal {
         System.out.println( "Dormindo...");
     }
 
+    public final void acordar(){
+        System.out.println("Acordando ......");
+
+    }
 
 
 
